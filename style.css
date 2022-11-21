@@ -1,4 +1,9 @@
+
 .ajax {
+    background-color:bisque ;
     display: flex;
     justify-content: center;
+}
+.block1 {
+    margin-right: 50px;
 }
