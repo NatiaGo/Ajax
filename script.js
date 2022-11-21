@@ -1,5 +1,5 @@
 'use strict';
-
+// ქრისტინა გასტილვა ვერ მოვასწარი, ეს ერთი კვირა მაპატიე :))
 // fetch 
 
 let ul = document.getElementById("list")
